@@ -1,2 +1,2 @@
-# bootcampSantander-dio-github
-Desafio de projeto sobre Git/GitHub - primeiro repositório no curso
+# Repositório do Desafio de Projeto sobre Git/GitHuB da DIO
+
