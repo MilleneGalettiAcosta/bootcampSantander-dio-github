@@ -1,5 +1,11 @@
 body {
   background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+#avatar {
+  border-radius: 50%;
 }
 
 #title, .subtitle, .post-title {
@@ -10,6 +16,14 @@ body {
   font-style: italic;
 }
 
-p, ul {
+ul {
   color: white;
+}
+
+.post {
+  background-color: white;
+  margin: 10px;
+  border: white solid 3px;
+  padding: 10px;
+  border-radius: 3px;
 }
